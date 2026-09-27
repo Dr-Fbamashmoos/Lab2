@@ -12,6 +12,7 @@ header {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ccc;
+    bgcolor: #562288;
 }
 
 .image-preview img {
